@@ -1,3 +1,4 @@
-prinlnt("Hello World")
-prinlnt("Hello Hojun")
+println("Hello World")
+println("Hello Hojun")
+println("Hello your name")
 
