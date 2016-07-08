@@ -1,1 +1,3 @@
-prinint("Hello World")
+prinlnt("Hello World")
+prinlnt("Hello Hojun")
+
